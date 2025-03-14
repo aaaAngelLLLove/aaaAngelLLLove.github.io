@@ -409,13 +409,13 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // Add videos with titles and subtitles (swapped order)
     addVideo(
-        'assets/videos/vp_output_1741827164724.mp4',
+        './assets/videos/vp_output_1741827164724.mp4',
         'BTS 视频',
         '粉丝自制',
         0
     );
     addVideo(
-        'assets/videos/lv_0_20250313160145.mp4',
+        './assets/videos/lv_0_20250313160145.mp4',
         'BTS 视频',
         '粉丝自制',
         1
